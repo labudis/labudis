@@ -1,6 +1,6 @@
 ### Hi, I'm Tadas 👋👋
 
-I love building products! Currently, I'm a Senior Product Manager at [GitHub](https://github.com) looking after Issues and Notifications.
+I love building products! Currently, I'm a Senior Product Manager at [GitHub](https://github.com) looking after Issues.
 
 _Some of my previous roles:_
 - Senior Director of Product at [Playvox](https://www.playvox.com/)
