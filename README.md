@@ -1,10 +1,13 @@
-### Hi, I'm Tadas 👋👋
+### Hi, I’m Tadas 👋
 
-I love building products! Currently, I'm a Senior Product Manager at [GitHub](https://github.com) looking after Issues.
+I’m a product leader who loves building and scaling products.
 
-_Some of my previous roles:_
-- Senior Director of Product at [Playvox](https://www.playvox.com/) where I led a team building a brand new AutoQA product
-- CEO & Founder at [Prodsight](https://www.linkedin.com/company/prodsight/). It was a conversational AI startup that was acquired by Playvox in 2022.
-- Product Manager at Yavi
+Currently **Senior Product Manager at GitHub**, working on Issues.
 
-I also mentor early-stage founders via [Techscaler](https://www.techscaler.co.uk/).
+**Previously:**
+
+* **Senior Director of Product at Playvox** — led the creation of a new AI-powered [AutoQA](https://www.prnewswire.com/news-releases/playvox-announces-autoqa-to-transform-quality-assurance-with-the-power-of-ai-301626443.html) product
+* **Founder & CEO at Prodsight** — built a conversational AI startup, [acquired](https://www.prnewswire.com/news-releases/playvox-introduces-customer-ai-with-the-acquisition-of-prodsight-301458125.html) by Playvox in 2022
+* **Product Manager at Yavi**
+
+I also mentor early-stage founders through [Techscaler](https://www.techscaler.co.uk/mentorship).
