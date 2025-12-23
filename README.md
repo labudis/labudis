@@ -11,3 +11,5 @@ Currently **Senior Product Manager at GitHub**, working on Issues.
 * **Product Manager at Yavi**
 
 I also mentor early-stage founders through [Techscaler](https://www.techscaler.co.uk/mentorship).
+
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/tadaslabudis/).
