@@ -4,6 +4,12 @@ I’m a product leader who loves building and scaling products.
 
 Currently **Senior Product Manager at GitHub**, working on Issues.
 
+**Currently working on:**
+
+* Issue fields
+* Triage agent
+* Semantic search experiences
+
 **Previously:**
 
 * **Senior Director of Product at Playvox** — led the creation of a new AI-powered [AutoQA](https://www.prnewswire.com/news-releases/playvox-announces-autoqa-to-transform-quality-assurance-with-the-power-of-ai-301626443.html) product
