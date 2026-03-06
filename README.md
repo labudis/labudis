@@ -8,7 +8,6 @@ Currently **Senior Product Manager at GitHub**, working on Issues.
 
 * Issue fields
 * Triage agent
-* Semantic search experiences
 
 **Previously:**
 
