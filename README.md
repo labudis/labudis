@@ -13,7 +13,7 @@ Currently building:
 ## Previously
 
 * **Senior Director of Product at Playvox** — led the creation of a new AI-powered [AutoQA](https://www.prnewswire.com/news-releases/playvox-announces-autoqa-to-transform-quality-assurance-with-the-power-of-ai-301626443.html) product
-* **Founder & CEO at Prodsight** — built a conversational AI startup, [acquired](https://www.prnewswire.com/news-releases/playvox-introduces-customer-ai-with-the-acquisition-of-prodsight-301458125.html) by Playvox in 2022
+* **Founder & CEO at Prodsight** — built an AI-powered customer feedback analytics platform using NLP to auto-tag and analyze support tickets, reviews, and surveys; [acquired](https://www.prnewswire.com/news-releases/playvox-introduces-customer-ai-with-the-acquisition-of-prodsight-301458125.html) by Playvox in 2022
 * **Product Manager at Yavi** — founding PM at a workforce management startup combining mobile messaging with shift scheduling
 * **Product Manager at Kotikan** — worked on 0-1 mobile products at the agency behind Skyscanner and FanDuel's mobile apps
 
