@@ -7,7 +7,7 @@ Product leader who loves building and scaling products.
 **Senior Product Manager at GitHub**, working on Issues.
 
 Currently building:
-* Issue fields
+* [Issue fields](https://github.com/orgs/community/discussions/189141)
 * Triage agent
 
 ## Previously
