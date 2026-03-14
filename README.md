@@ -8,6 +8,7 @@ Product leader who loves building and scaling products.
 
 Key initiatives:
 * [Issue fields](https://github.com/orgs/community/discussions/189141) — structured metadata on issues, replacing the workarounds teams built with labels and project fields
+* [Semantic search](https://github.blog/changelog/2026-01-29-improved-search-for-github-issues-in-public-preview/) — natural language search for GitHub Issues
 * Triage agent — AI-powered agent that automatically triages incoming issues
 
 ## Previously
