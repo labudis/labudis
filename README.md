@@ -1,6 +1,6 @@
 # Hi, I'm Tadas 👋
 
-Product leader who loves building and scaling products.
+Product manager at GitHub, building the future of Issues. Previously founded Prodsight (acquired by Playvox) and shipped AI products across customer support, feedback analytics, and developer tools.
 
 ## Now
 
