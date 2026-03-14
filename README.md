@@ -18,8 +18,9 @@ Currently building:
 
 ## Copilot Skills
 
-* [mockup-prototype](https://github.com/labudis/skills/tree/main/mockup-prototype) — generate interactive HTML mockups from a description, iterate on them, and deploy to GitHub Pages or Vercel for sharing
-* [github-issues](https://github.com/awesome-copilot/github-issues) — create, update, and manage GitHub issues using MCP tools and `gh` CLI
+* [mockup-prototype](https://skills.sh/labudis/skills/mockup-prototype) — generate interactive HTML mockups from a description, iterate on them, and deploy to GitHub Pages or Vercel for sharing
+* [github-issues](https://skills.sh/github/awesome-copilot/github-issues) — create, update, and manage GitHub issues using MCP tools and `gh` CLI
+* [issue-fields-migration](https://skills.sh/github/awesome-copilot/issue-fields-migration) — bulk-copy field values from Project V2 fields or repo labels to org-level issue fields
 
 ## Find me on
 
