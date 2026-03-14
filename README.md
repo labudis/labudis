@@ -9,6 +9,7 @@ Product leader who loves building and scaling products.
 Key initiatives:
 * [Issue fields](https://github.blog/changelog/2026-03-12-issue-fields-structured-issue-metadata-is-in-public-preview) — structured metadata on issues, replacing the workarounds teams built with labels and project fields
 * [Semantic search](https://github.blog/changelog/2026-01-29-improved-search-for-github-issues-in-public-preview/) — natural language search for GitHub Issues
+* [Copilot repo and branch selection](https://github.blog/changelog/2025-09-24-pick-the-repository-and-base-branch-when-assigning-issues-to-copilot/) — pick the target repo and base branch when assigning issues to Copilot
 * Triage agent — AI-powered agent that automatically triages incoming issues
 
 ## Previously
