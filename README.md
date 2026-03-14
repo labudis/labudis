@@ -7,7 +7,7 @@ Product leader who loves building and scaling products.
 **Senior Product Manager at GitHub**, working on Issues.
 
 Key initiatives:
-* [Issue fields](https://github.com/orgs/community/discussions/189141) — structured metadata on issues, replacing the workarounds teams built with labels and project fields
+* [Issue fields](https://github.blog/changelog/2026-03-12-issue-fields-structured-issue-metadata-is-in-public-preview) — structured metadata on issues, replacing the workarounds teams built with labels and project fields
 * [Semantic search](https://github.blog/changelog/2026-01-29-improved-search-for-github-issues-in-public-preview/) — natural language search for GitHub Issues
 * Triage agent — AI-powered agent that automatically triages incoming issues
 
