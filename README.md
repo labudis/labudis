@@ -10,7 +10,7 @@ Key initiatives:
 * [Issue fields](https://github.blog/changelog/2026-03-12-issue-fields-structured-issue-metadata-is-in-public-preview) — structured metadata on issues, replacing the workarounds teams built with labels and project fields
 * [Semantic search](https://github.blog/changelog/2026-01-29-improved-search-for-github-issues-in-public-preview/) — natural language search for GitHub Issues
 * [Copilot repo and branch selection](https://github.blog/changelog/2025-09-24-pick-the-repository-and-base-branch-when-assigning-issues-to-copilot/) — pick the target repo and base branch when assigning issues to Copilot
-* [Sub-issues, issue types, and advanced search](https://github.blog/changelog/2025-04-09-evolving-github-issues-and-projects/) — foundational building blocks for structured project planning in GitHub Issues
+* [Sub-issues, issue types, and advanced search](https://github.blog/changelog/2025-04-09-evolving-github-issues-and-projects/) — led the replatforming that enabled sub-issues, issue types, and advanced search
 
 ## 🏗️ Previously
 
